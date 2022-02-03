@@ -1,6 +1,6 @@
 # 3D-Printed Connected Stethoscope
 
-The files provided in this page was used in a recent conference paper: "*Development of Acoustically Optimized, 3D-Printed Stethoscope for Telehealth*" (under review).
+The files provided in this page was used in a recent conference paper: "*Development of Acoustically Optimized, 3D-Printed Stethoscope for Telehealth*" (accepted).
 
 
 A short video that shows the project in action is available on the link below:
